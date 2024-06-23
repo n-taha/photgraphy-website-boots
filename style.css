@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+  background-color: #FE8C45;
+ outline: none;
+ border: none;
+}
+.large{
+    font-size: 5em;
+    font-weight: 700;
+}
